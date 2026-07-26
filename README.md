@@ -1,75 +1,78 @@
+<div align="center">
+
 # Hi, I'm Riya 👋
 
-### Finance & MIS Student | Building Technology for Business
+### Finance • MIS • Software Development
 
-I'm a Finance and Management Information Systems (MIS) student passionate about solving business problems with technology. I'm currently building projects that combine finance, data, automation, and software development while expanding my programming skills.
+<p>
+  Building clean, practical, and data-driven projects at the intersection of business and technology.
+</p>
 
-🌱 Currently Learning
-- Full-Stack Web Development
-- Software Development
-- Database Design
-- Business Analytics
-- Financial Analysis
-
-🎯 Current Goal
-I'm actively seeking **Summer 2027 internships** in:
-- Finance
-- Business Technology
-- Data Analytics
-- Management Information Systems
-- Technology Consulting
+</div>
 
 ---
 
-## 🛠️ Technologies & Languages
+## About Me
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I’m a Finance and Management Information Systems student with a strong interest in turning ideas into useful tools. I enjoy working on projects that combine logic, design, and business thinking — especially anything involving data, automation, databases, or thoughtful web experiences.
 
-### Currently Learning
-- React
-- Node.js
-- Express.js
-- PostgreSQL
-- Git & GitHub
-
-### Business & Finance
-- Microsoft Excel
-- Financial Modeling
-- Data Analysis
-- Process Improvement
+This page is a living portfolio and will continue to grow as I build more projects.
 
 ---
 
-## 🚀 Featured Projects
+## Languages
 
-### 📈 Finance Projects
-Coming soon...
-
-### 💻 MIS & Software Projects
-Coming soon...
-
-### 📊 Data Analytics Projects
-Coming soon...
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
+</p>
 
 ---
 
-## 📚 What I'm Working On
+## Current Focus
 
-- Building finance-focused applications
-- Learning modern web development
-- Strengthening programming skills
-- Creating projects that combine business and technology
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: *Add your LinkedIn link*
-- Email: *Add your email*
+* Building finance and MIS projects
+* Strengthening programming fundamentals
+* Learning how to design clean, scalable solutions
+* Creating work that is both technically solid and visually polished
 
 ---
 
-> *"Using technology to solve business problems."*
+## Skills I Value
+
+* Clear thinking
+* Attention to detail
+* Clean code
+* Practical problem-solving
+* Business-minded technical work
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riyamaknojia22&show_icons=true&hide_border=true&title_color=111111&text_color=333333&icon_color=111111" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyamaknojia22&layout=compact&hide_border=true&title_color=111111&text_color=333333" height="170" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/-riyamaknojia/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:riyamaknojia22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+*Elegant design, thoughtful code, and projects that create value.*
+
+</div>
